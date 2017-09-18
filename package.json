@@ -1,0 +1,19 @@
+{
+  "name": "kodilla_zad_17_2",
+  "version": "1.0.0",
+  "description": "example kod_zad172",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "albert",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4"
+  }
+}
